@@ -26,10 +26,10 @@
 </head>
 <body>
   <div class="box">
-    <h1>HW1-Review</h1>
+    <h1>Literary Review 1</h1>
     <div class="box2">
-      <a href="HW1-Review.pdf">HM1-Download</a>
-      <embed src="HW1-Review.pdf" width="1024" height="500">
+      <a href="Literary-Review-1.pdf">Download Literary Review 1</a>
+      <embed src="Literary-Review-1.pdf" width="1024" height="500">
     </div>
         </div>
 </body>
