@@ -1,11 +1,8 @@
 ### Johnathan's Architecture Website
 
-## Homework 1
-[Hw1-Review.pdf](http://historybuffjb.github.io/ArchWebsite/HW1-Review.pdf)
 <!doctype html>
 <html>
 <head>
-  <title>liyunzh</title>
   <style>
     .box{
       text-align: center;
