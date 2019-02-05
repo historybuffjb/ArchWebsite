@@ -28,8 +28,8 @@
   <div class="box">
     <h1>Literary Review 1</h1>
     <div class="box2">
-      <a href="HW1-LiteratureJB.docx">Download Literary Review 1</a>
-      <embed src="HW1-LiteratureJB.docx" width="1024" height="500">
+      <!-- <a href="HW1-LiteratureJB.pdf">Download Literary Review 1</a> -->
+      <embed src="HW1-LiteratureJB.pdf" width="1024" height="500">
     </div>
         </div>
 </body>
