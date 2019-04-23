@@ -16,8 +16,9 @@
       <embed src="HW1-LiteratureJB.pdf" width="1024" height="500">
     </div>
     <div>
-      <h2>lHere is the link for the research presentation</h2>
+      <h2>Here is the link for the research presentation</h2>
       <a href="https://docs.google.com/presentation/d/1a3qR-1s5oO1z7UdWWfGI8CqdJKpoPYJ5Y0f3XejtWfY/edit">Research Presentation </a>
+      <h2>Here is the link for the implementation presentation</h2>
       <a href="https://docs.google.com/presentation/d/1jXLIedGZON015YVOcBwzmQWKGhjKZXhF9WFSupzCGGQ/edit">Implementation Presentation</a>
       <div>
         </div>
